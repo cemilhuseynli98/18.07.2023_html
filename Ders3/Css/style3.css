@@ -1,0 +1,126 @@
+.div1{
+    display: inline-block;
+    background-color: green;
+    width: 660px;
+    height:400px;
+}
+
+.link1{ display: inline-block;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    border-radius: 7px;
+    margin-top: 30px;
+    margin-left: 470px;
+    padding: 5px;
+}
+.link2{
+    display: inline-block;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    border-radius: 7px;
+    padding: 5px;
+   
+   
+}
+.div2{ 
+    display: inline-block;
+    background-color:indigo;
+    width: 250px;
+    height:250px; 
+    margin-top: 50px;
+    margin-left: 200px;
+border-radius: 10px;
+}
+.sekil1{
+    margin-top: 25px;
+    margin-left: 110px;
+    width: 25px;
+height: 25px;
+}
+
+.esas1{
+    text-align: center;
+    color: white;
+}
+.form1{
+    margin-left: 30px;
+    background-color: indigo;
+    border-radius: 10px;
+    border: 1px solid white;
+    padding: 10px;
+}
+.link3{
+
+    display: inline-block;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 15px;
+    font-size: 0.6rem;
+    margin-left: 50px;
+    margin-top: 20px;
+
+}
+.link4{
+color: white;
+font-size: 0.6rem;
+margin-left: 20px;
+
+}
+.div3{
+    display: inline-block;
+    background-color: green;
+    width: 660px;
+    height:400px;
+}
+.div4{
+    display: inline-block;
+    background-color:indigo;
+    width: 250px;
+    height:250px; 
+    margin-top: 50px;
+    margin-left: 200px;
+border-radius: 10px;
+}
+.link5{
+    display: inline-block;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    border-radius: 7px;
+    padding: 5px;
+    margin-left: 470px;
+    
+}
+.link6{
+    display: inline-block;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    border-radius: 7px;
+    margin-top: 30px;
+    padding: 5px;
+}
+.form2{
+    margin-left: 30px;
+    background-color: indigo;
+    border-radius: 10px;
+    border: 1px solid white;
+    padding: 10px;
+
+}
+
+.link7{
+    display: inline-block;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 15px;
+    font-size: 0.6rem;
+    margin-left: 95px;
+    margin-top: 20px;   
+}

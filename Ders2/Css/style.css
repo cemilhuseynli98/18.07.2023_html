@@ -1,0 +1,36 @@
+table{
+    width:100%;
+    border-collapse: collapse;
+   
+}
+
+th{
+    font-size: 0.7rem;
+    padding: 15px;
+}
+td,th{
+text-align: center;
+padding: 6px;
+}
+tr:nth-child(odd) {
+    background-color: #EAF2FA;
+  }
+  
+  td:last-child{
+    background-color: #E4ECF4;
+  } 
+
+  th:last-child{
+    background-color: #E4ECF4;
+  }
+
+td:first-child{
+    background-color: white;
+}
+.button1{
+    width: 20%; 
+    height: 30px;
+    background-color: indigo; color: white;
+     margin-top: 15px;
+     margin-left: 40%;
+}

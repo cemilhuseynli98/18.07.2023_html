@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+</head>
+
+<body>
+    
+        <form action="" method="">
+            <table>
+                <tr>
+                    <td><label for="Adınız">Adınız:</label></td>
+                    <td><input type="text" id="Adınız" placeholder="Adınız" minlength="2" maxlength="30" required></td>
+                </tr>
+                <tr>
+                    <td><label for="Soyadınız" >Soyadınız:</label></td>
+                    <td><input type="text" id="Soyadınız" placeholder="Soyadınız" readonly></td>
+                </tr>
+                <tr>
+                    
+                    <td><label for="Email"></label>Email:</td>
+                    <td><input type="email" id="Email" placeholder="Email" required></td>
+                </tr>
+                <tr>
+                    <td><label for="Şifrəniz">Şifrəniz:</label></td>
+                    <td><input type="password" id="Şifrəniz" placeholder="Şifrəniz" required></td>
+                </tr>
+                <tr>
+                    <td>Cinsiniz:</td>
+                    <td>
+                        <input type="radio" id="kisicins" name="cinsradio" value="Kişi">
+                        <label for="kisicins" style="margin-right: 30px;">Kişi</label>
+                        <input type="radio" name="cinsradio" id="qadincins" value="Qadın">
+                        <label for="qadincins">Qadın</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Dil seçin:</td>
+                    <td>
+                        <select name="" id="">
+                            <option value="Türk dili">Türk dili</option>
+                            <option value="İngilis dili">İngilis dili</option>
+                            <option value="Rus dili">Rus dili</option>
+                        </select>
+                    </td>
+
+                </tr>
+                <tr>
+                    <td><br></td>
+                </tr>
+                <tr>
+                    <th colspan="2">Hobbilər</th>
+                </tr>
+                <tr>
+                    <td>Kitab oxumaq </td>
+                    <td><input type="checkbox" id="Kitabchekbox"></td>
+                </tr>
+                <tr>
+                    <td>Səyahət etmək</td>
+                    <td><input type="checkbox" id="Səyahətcheckbox"></td>
+                </tr>
+                <tr>
+                    <td>Futbol oynamaq</td>
+                    <td><input type="checkbox" id="Futbolbox" disabled></td>
+                </tr>
+
+                <tr>
+                    <td>Fayl seçin:</td>
+                    <td><input type="file" multiple></td>
+                </tr>
+
+                <tr>
+                    <td><br></td>
+                </tr>
+                <tr>
+                    <td>Haqqında:</td>
+                </tr>
+                <tr>
+                    <td colspan="2"><textarea name="Məlumat" id="Mətn" cols="37" rows="7" placeholder="Mətn" minlength="10" maxlength="100"></textarea>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Doğum tarixi:</td>
+                    <td> <input type="date" name="" id=""></td>
+                </tr>
+
+
+                <tr>
+                    <td><br></td>
+                </tr>
+
+                <tr>
+
+                    <td>
+                        <input type="radio" id="raziliq" name="razilasmaradio" value="Razıyam">
+                        <label for="raziliq" style="margin-right: 30px;">Razıyam</label>
+                    </td>
+                    <td>
+                        <input type="radio" name="razilasmaradio" id="razideyiləm" value="Razı deyiləm">
+                        <label for="razideyiləm">Razı deyiləm</label>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td><br></td>
+                </tr>
+                <tr>
+                    <td colspan="2"><input type="submit" value="Göndər"
+                            style="width:85%; background-color: blue;border-radius: 15px"></td>
+                </tr>
+                <tr>
+                    <td colspan="2"><input type="reset" value="Sıfırla"
+                            style="width: 85%; background-color: red; border-radius: 15px;"></td>
+                </tr>
+
+            </table>
+        </form>
+  
+</body>
+
+</html>

@@ -1,0 +1,28 @@
+.soz1{
+color: blue;
+text-align: center;
+}
+.paraqraf1{
+color: red;
+text-align: justify;
+
+}
+
+
+
+.list1{
+list-style-type: upper-roman;
+color: green;
+
+}
+.link1{
+    text-decoration: none;
+    color: brown;
+
+}
+.link2{
+text-decoration: none;
+color: indigo;
+
+
+}

@@ -1,0 +1,51 @@
+.div1{
+background-color: blue;
+width: 70px;
+height: 165px;
+text-align: center;
+padding: 10px;
+
+}
+img{
+width: 3rem;
+height: 1.5rem;
+
+cursor: pointer;
+}
+
+.div2{
+background-color:red;
+height: 210px;
+width: 70px;
+text-align: center;
+padding: 10px;
+font-size: 0.4rem;
+}
+.div3{
+    background-color:green;
+    height: 490px;
+    width: 40px;
+text-align: center;
+padding: 10px;
+font-size: 0.4rem;
+padding : 25px;
+}
+.div4{
+    background-color: black;
+    color: white;
+    width: 60px;
+    height: 200px;
+    text-align: center;
+    padding: 15px;
+    font-size: 0.2rem;
+    margin-top: 20px;
+}
+.div5{
+background-color: indigo;
+height: 630px;
+width: 240px;
+text-align: center;
+padding: 20px;
+
+}
+

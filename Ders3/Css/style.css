@@ -1,0 +1,55 @@
+#body {
+    background-color: black;
+    cursor: pointer;
+}
+.nav1{ display: flex;
+    margin-top: 50px;
+    column-gap: 450px;
+}
+.head1 {
+    margin-left: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: lightblue;
+    display:inline;
+    
+}
+
+.head2 {
+    color: white;
+    color: lightblue;
+    margin-left: 70px;
+}
+
+.paragraf1 {
+    color: lightblue;
+    margin-left: 70px;
+    margin-top: 120px;
+}
+
+.paragraf2 {
+    color: white;
+    margin-left: 70px;
+    display: inline;
+}
+
+.paragraf3 {
+    color: lightblue;
+    display: inline;
+}
+.list {
+    display: flex;
+    column-gap: 20px;
+}
+
+.list1{
+    display: inline;
+}
+
+
+
+
+.link1 {
+    text-decoration: none;
+    color: lightblue;
+    margin-right: 20px;
+}
